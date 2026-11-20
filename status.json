@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T17:20:54.926Z",
+  "generated_at": "2026-11-20T23:14:58.630Z",
   "overall": "operational",
   "components": [
     {
@@ -11,8 +11,8 @@
       "status": "operational",
       "uptime_90d": 100,
       "data_days": 1,
-      "latency_avg_ms": 306,
-      "last_check": "2026-11-20T17:20:55.183Z",
+      "latency_avg_ms": 266,
+      "last_check": "2026-11-20T23:14:58.781Z",
       "today_checks": [
         {
           "t": "2026-11-20T01:16:32.330Z",
@@ -30,6 +30,12 @@
           "t": "2026-11-20T17:20:55.183Z",
           "ok": true,
           "latency_ms": 253,
+          "code": 200
+        },
+        {
+          "t": "2026-11-20T23:14:58.781Z",
+          "ok": true,
+          "latency_ms": 147,
           "code": 200
         }
       ]
