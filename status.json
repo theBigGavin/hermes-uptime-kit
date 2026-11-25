@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T16:25:42.057Z",
+  "generated_at": "2026-11-25T00:59:49.715Z",
   "overall": "operational",
   "components": [
     {
@@ -10,20 +10,14 @@
       "url": "https://thebiggavin.github.io/hermes-uptime-kit/",
       "status": "operational",
       "uptime_90d": 100,
-      "data_days": 1,
-      "latency_avg_ms": 694,
-      "last_check": "2026-11-24T16:25:42.500Z",
+      "data_days": 2,
+      "latency_avg_ms": 202,
+      "last_check": "2026-11-25T00:59:49.926Z",
       "today_checks": [
         {
-          "t": "2026-11-24T05:36:11.751Z",
+          "t": "2026-11-25T00:59:49.926Z",
           "ok": true,
-          "latency_ms": 952,
-          "code": 200
-        },
-        {
-          "t": "2026-11-24T16:25:42.500Z",
-          "ok": true,
-          "latency_ms": 435,
+          "latency_ms": 202,
           "code": 200
         }
       ]
